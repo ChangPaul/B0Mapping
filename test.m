@@ -1,4 +1,5 @@
 addpath 'Dependencies';
+addpath 'sph';
 voipath = '';                                % Insert filepath of VOI
 
 % Process magnitude
